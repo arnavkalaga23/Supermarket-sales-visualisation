@@ -1,1 +1,2 @@
-# Supermarket-sales-visualisation
+Supermarket Sales Data Visualization
+Developed an interactive Power BI dashboard to visualize supermarket sales data, providing key insights into sales performance and customer behavior. Utilized advanced data visualization techniques, including bar charts, line graphs, and pie charts, to display metrics such as total sales, revenue trends, profit margins, and product-wise performance. Incorporated KPIs for dynamic filtering, enabling stakeholders to drill down into region-wise sales, peak sales periods, and category-specific performance. The dashboard facilitated data-driven decision-making by offering a comprehensive view of sales trends, inventory levels, and customer purchasing patterns.
